@@ -7,3 +7,5 @@ This will allow mapping of a Cname (New or Update) for particular zone, this was
 
 Instructions for use, modify the variables at the top and your ready to go, optional but for Quality of Life, add the bat to a path directory and then launch it from anywhere create your site in Instawp, select map and begin the process, useful for creators and video creators alike, no need to login to Cloudflare or manually do this.
 
+### Insta2.bat
+This is the same as Insta.bat but supports multiple domains and keys for updating
